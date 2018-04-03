@@ -1,0 +1,7 @@
+#!/bin/bash
+cp ~/.vimrc .
+cp ~/.bashrc .
+cp ~/.gitignore .
+git add .
+git commit -m "Updated Dotfiles on $(date)"
+git push
