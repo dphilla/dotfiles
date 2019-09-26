@@ -1,4 +1,5 @@
+
 # dotfiles
 fun files you can't always see
 
-**Symlink may need updating depending on env**
+TODO -- update symlinking from this dir to standard unix ~
